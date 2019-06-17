@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1560766774 source:c:\users\lenovo\desktop\操作系统\yss_filesystem\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	"file.h"
+	"IO.h"
+
+1560771025 c:\users\lenovo\desktop\操作系统\yss_filesystem\file.h
+	"IO.h"
+
+1560767910 c:\users\lenovo\desktop\操作系统\yss_filesystem\io.h
+	<stdio.h>
+
+1560772852 source:c:\users\lenovo\desktop\文件系统\yss_filesystem\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	"file.h"
+	"IO.h"
+
+1560775030 c:\users\lenovo\desktop\文件系统\yss_filesystem\file.h
+	"IO.h"
+
+1560767910 c:\users\lenovo\desktop\文件系统\yss_filesystem\io.h
+	<stdio.h>
+
